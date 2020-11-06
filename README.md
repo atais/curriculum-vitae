@@ -3,7 +3,7 @@
 My curriculum vitae repository.
 
 Up to date PDF link:
-https://github.com/atais/curriculum-vitae/blob/master/cv.pdf
+https://github.com/atais/curriculum-vitae/raw/master/cv.pdf
 
 # Template
 
